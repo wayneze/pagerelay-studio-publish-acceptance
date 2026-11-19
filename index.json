@@ -2,23 +2,23 @@
   "formatVersion": 1,
   "repositoryId": "acceptance.github.studio",
   "name": "原创公网验收订阅",
-  "sequence": 1,
-  "generatedAt": "2026-11-19T16:24:40.231Z",
+  "sequence": 2,
+  "generatedAt": "2026-11-19T18:00:00.252Z",
   "packages": [
     {
       "packageId": "org.pagerelay.acceptance.github",
       "name": "公网原创订阅验收",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "minimumRuntimeVersion": "0.28.0",
       "artifactPath": "source.rsource",
-      "artifactSha256": "afd635077d148d0bb47ab0075447aeecfdaa58671a7d0bc9a3bdefa36dc81a02",
-      "artifactSize": 16214,
-      "contentDigest": "24cdfc445dd32874adcc14340ae9b31d1ef1e72c967cb79580cc7ba452a19c34",
+      "artifactSha256": "f76ee0ba21b3e4b03d5d3fb704a5fa0c13d4510bf5fa28a398bdbc965de7eb3f",
+      "artifactSize": 16232,
+      "contentDigest": "5319372435a39855a6bd2d5486f9de2f22af7125e940de531c7f9a1495990014",
       "signerKeyId": "edbdf1d56fd44996b281f6f7e7a81a6c1a66e35e2188f2b2de3f195c150c4a2b",
       "entryIds": [
         "org.pagerelay.acceptance.github.text"
       ],
-      "publishedAt": "2026-11-19T16:24:40.231Z"
+      "publishedAt": "2026-11-19T18:00:00.252Z"
     }
   ]
 }
